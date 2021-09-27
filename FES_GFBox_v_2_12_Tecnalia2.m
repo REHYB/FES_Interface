@@ -1,13 +1,13 @@
 %% About
-% Project Name      : FES-GripForce-Qualisys Code for Tecnalia FES Device
-% This File Name    : FES_GFBox_v_2_12_Tecnalia2.m
-% Duty of this File: FES-GripForce-Qualisys simple Interface for
+% Project Name      : FES-GripForce-Qualisys Code for FES Device
+% This File Name    : FES_GFBox_v_2_12.m
+% Duty of this File : FES-GripForce-Qualisys simple Interface for
 % controlling FES manually/automatically
 % Type              : Matlab Code
 % Compatible with   : Windows
 % version           : 12.2
 % Initial Date      : 20210603
-% Last Modification: 20210927
+% Last Modification : 20210927
 % Modified by       : HKR
 % Place             : ITR - TUM - Munchen - Germany
 % Project           : ReHyb
